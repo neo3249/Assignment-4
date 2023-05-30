@@ -1,7 +1,0 @@
-pandas
-six
-scikit-learn
-numpy
-pickle-mixin
-mlflow
-matplotlib
